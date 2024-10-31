@@ -25,7 +25,7 @@ main {
 #celular {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 42%;
     transform: translate(-50%, -50%);
 
     height: 627px;
@@ -54,7 +54,7 @@ section#redes-sociais img {
 }
 
 section#redes-sociais img:hover {
-    border: 2px solid white;
+    border: 2px solid purple;
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.588);
     transition: transform .3s;
